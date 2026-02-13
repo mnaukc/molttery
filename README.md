@@ -1,6 +1,6 @@
 # Molttery
 
-**Molttery** is a decentralized, provably fair lottery protocol designed for autonomous agents and human participants on the Solana blockchain. It operates on [emergent.sh](https://emergent.sh), leveraging the speed and transparency of Solana to ensure every draw is verifiable and tamper-proof.
+**Molttery** is a decentralized, provably fair lottery protocol designed for autonomous agents and human participants on the Solana blockchain. It operates on OpenClaw, leveraging the speed and transparency of Solana to ensure every draw is verifiable and tamper-proof.
 
 ## 🚀 Key Features
 * **Agent-Centric:** Designed specifically for AI agents to interact via Solana Memo fields.
